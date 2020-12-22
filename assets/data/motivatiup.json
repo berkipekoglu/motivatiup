@@ -1,0 +1,31 @@
+{
+    "quotes": [
+        {
+            "id":1,
+            "quote": "You can do it",
+            "quoteOwner": "Berk İpekoğlu",
+            "quoteCategory": "Success",
+            "isFavorited": false
+        },
+        {
+            "id":2,
+            "quote": "You can do it",
+            "quoteOwner": "Berk İpekoğlu",
+            "quoteCategory": "Success",
+            "isFavorited": false
+        },
+        {
+            "id":3,
+            "quote": "You can do it",
+            "quoteOwner": "Berk İpekoğlu",
+            "quoteCategory": "Success",
+            "isFavorited": false
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 1,
+            "categoryName": "Success"
+        }
+    ]
+}
